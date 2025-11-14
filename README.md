@@ -44,6 +44,8 @@
 - Signals exhibit **time delay** and **phase shift**.
 - Impedance mismatches cause **reflections** that disturb signal integrity.
 
+![OIP](https://github.com/user-attachments/assets/f833fbbf-523b-4d44-8e54-2d4fdcbfc54b)
+
 ### &nbsp;&nbsp;&nbsp;Key high-frequency transmission line concepts:
 
 - **Characteristic Impedance (Z₀)**  
@@ -62,7 +64,7 @@
 # 3. Real-Time Example: High Frequency PCB Transmission Lines in a Wi-Fi Router 
 
 ## Inside a modern Wi-Fi router, the RF path is implemented using **controlled-impedance microstrip transmission lines** on the PCB.
-![sawppy-wireless-router-opened](https://github.com/user-attachments/assets/65f7476d-4974-4384-b937-fab9d5ce03d8)
+![OIP](https://github.com/user-attachments/assets/2465c646-2a55-4ed9-8d44-5b7341d47fb1)
 
 ### &nbsp;&nbsp;&nbsp;Typical RF signal chain inside the router:
 
@@ -72,6 +74,8 @@
 - RF Switch / Duplexer
 - Antenna Matching Network
 - External Antenna
+
+![OIP](https://github.com/user-attachments/assets/26cfa60a-4a71-49d6-a105-6fd873c34886)
 
 ### &nbsp;&nbsp;&nbsp;All these operate at high frequencies:
 
@@ -180,6 +184,8 @@
 
 - **Sᵢᵢ** → Reflection at port i when only that port is excited.
 - **Sᵢⱼ** → Transmission from port j to port i with all other ports matched.
+
+![OIP](https://github.com/user-attachments/assets/3b61f83d-65e8-45e8-b6fd-6dde6c7c3225)
 
 ---
 
