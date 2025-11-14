@@ -288,13 +288,9 @@
 
 - The antenna is **reasonably well matched**.
 - Reflections are moderate but acceptable for many Wi-Fi applications.
-
 ---
 
 # 7. Conclusion 
 
 - High-frequency systems require transmission line theory because signals behave as waves, and S-parameters are essential to characterize reflection, transmission, matching, and isolation.
-
-- In real devices like Wi-Fi routers, microstrip lines carry 2.4/5 GHz signals, where S₁₁ checks antenna/RF port matching, S₂₁ checks power transfer, and VSWR/Return Loss evaluate reflection efficiency.
-
 - Proper understanding of S-parameters helps engineers design efficient RF front-ends with better Wi-Fi coverage, minimal losses, reduced heating, and reliable high-speed communication.
